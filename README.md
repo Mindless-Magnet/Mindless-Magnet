@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shajahan</h1>
 <h3 align="center">A passionate CSE AI student from India.</h3>
 
