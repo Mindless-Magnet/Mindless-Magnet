@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindless-magnet&show_icons=true&locale=en" alt="mindless-magnet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindless-magnet&" alt="mindless-magnet" /></p>
+
+[![@mindlessmagnet's Holopin board](https://holopin.me/mindlessmagnet)](https://holopin.io/@mindlessmagnet)
