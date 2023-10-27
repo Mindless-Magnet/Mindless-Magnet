@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shajahan</h1>
-<h3 align="center">A passionate CSE AI student from India.</h3>
+<h3 align="center">CSE AI student from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindless-magnet&label=Profile%20views&color=0e75b6&style=flat" alt="mindless-magnet" /> </p>
 
