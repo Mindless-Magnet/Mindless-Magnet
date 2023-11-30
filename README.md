@@ -85,4 +85,3 @@ Fullstack developer with a passion for crafting engaging user experiences using 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
