@@ -7,7 +7,7 @@
 Fullstack Developer. 
 
 Frontend:
-Web(React,Next) and Mobile(React Native)
+Web(React,Next) and Mobile(React Native + Expo)
 
 Backend:
 Node.js, FastAPI
