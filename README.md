@@ -1,13 +1,10 @@
 ## Experience
-Former Senior Executive of Frontend Volatility at the Department of Perpetual Beta.  
-Acting Director of Accidental Feature Deployment at HubbleStar, specializing in interfaces that rearrange themselves out of self-awareness.  
-Lead Facilitator of Swiftimate’s Mobile Reality Layer, where components achieve enlightenment and then refuse to render.  
-Founder of Mediclaim AI’s Schematic Reconstruction Lab, responsible for convincing data to stand still long enough to be displayed.
+Director of interface orchestration and visual systems alignment across multi-surface platforms, with responsibility for frontend coherence under variable architectural constraints. Former lead of mobile-first implementation strategy for field-oriented applications, emphasizing interaction stability, layout determinism, and operational clarity at scale. Founder and principal designer of structured presentation systems for high-volume data products, overseeing the transformation of irregular inputs into controlled visual outputs. Served as coordinating authority between frontend abstraction layers and application logic to maintain consistency across production environments.
 
 ## Currently Learning
-Hyper-reactive component liquification.  
-Force-push spiritualism.  
-Supabase-induced dimensional drift.  
-Cubic abstraction in non-cubic environments.  
-Advanced analytical analysis (now with less analysis).  
-Aura-coded UIs that compile only when the room feels right.
+Advanced interface stabilization under distributed state conditions  
+High-density component abstraction methodologies  
+Progressive liquification of rigid layout systems  
+Analytical analysis at extended depth  
+Applied systems observation through small gray mammals  
+Aura-based development practices following the deprecation of vibe coding
