@@ -22,7 +22,7 @@ Designing and shipping production-grade web applications.
 
 ## ✦ About
 
-I build complete software systems — from frontend interfaces to backend services and intelligent features.
+I build complete software systems, from frontend interfaces to backend services and intelligent features.
 
 My focus is on:
 
