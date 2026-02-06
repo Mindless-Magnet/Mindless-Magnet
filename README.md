@@ -1,5 +1,5 @@
 <!-- ========================= -->
-<!--  Visual GitHub README    -->
+<!--   GitHub Profile README  -->
 <!-- ========================= -->
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things.;Breaking+things.;Fixing+things.;Repeat.;Code+%E2%86%92+Ship+%E2%86%92+Improve" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+Backend+Engineer;Building+Scalable+Web+Apps;Turning+Ideas+Into+Systems" />
 
 </div>
 
@@ -20,16 +20,17 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F4dTdzbHZtbXBwbTV2ZHR3bWZ3em03a2c3Zm1taTZwcjA4NWd5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5Y2U3N3l0eGZ2aTRvdmx3NXFhbmt4NGF2cXdyM29wMDRnNjQ2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
 
 </div>
 
 ---
 
-## ⚡ System Status
+## 👨‍💻 About Me
 
-```txt
-> booting developer profile...
-> loading modules...
-> initializing creativity...
-> ready.
+```yaml
+Name: Muhammed Shajahan
+Role: Full Stack Developer
+Focus: Web Systems • APIs • AI Integration
+Style: Clean Architecture • Practical Engineering
+Location: India 🇮🇳
