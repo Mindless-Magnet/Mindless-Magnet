@@ -12,98 +12,99 @@
 
 <div align="center">
 
-### Full Stack Developer · Backend Engineer · AI Integration
+### Full Stack Developer · System Builder · AI-Integrated Engineer
 
-Building clean systems that actually work in production.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ4Z2g3YTV5ZTN5ZzZ3MmZ6OHNna2FlMWhpNGRmczY2d3l1Z2FvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif" width="380"/>
+Designing and shipping production-grade web applications.
 
 </div>
 
 ---
 
-## ✦ What I Do
+## ✦ About
 
-I design and build **end-to-end web systems** — from UI to APIs to deployment.
+I build complete software systems — from frontend interfaces to backend services and intelligent features.
 
-My work focuses on:
+My focus is on:
 
-- Scalable backend services  
-- Responsive web apps  
-- AI-powered features  
-- API-driven architecture  
-- Cloud deployment
+- Modern full-stack applications  
+- Scalable backend APIs  
+- AI-assisted workflows  
+- Payment & automation systems  
+- Cloud-ready architecture  
 
-No templates. No shortcuts. Just solid engineering.
+I care about clean structure, long-term maintainability, and real usability.
 
 ---
 
 ## ✦ Selected Work
 
-### 🏥 Healthcare Automation Platform
-AI-assisted claim validation and policy verification system.
+### 🩺 Medical Coding AI Assistant
 
-- Real-time API integrations  
-- Secure data pipelines  
-- ML-assisted decision support  
-- High-reliability backend
+A tool that assists medical documentation and coding using NLP-based suggestions.
 
-**Tech:** FastAPI · PostgreSQL · AWS · Python
+- Intelligent coding recommendations  
+- Automated documentation support  
+- Secure data handling  
+- Workflow optimization
 
----
-
-### 📱 Invoicing & Estimation App
-Mobile-first web platform for small businesses.
-
-- Offline-friendly UI  
-- Cloud sync  
-- Secure auth  
-- Responsive design
-
-**Tech:** React · Supabase · Node.js
+**Tech:** Python · FastAPI · PyTorch · Transformers
 
 ---
 
-### 🧠 Medical AI Research
-Tumor anomaly detection & segmentation pipelines.
+### 📱 Invoicing & Business App
 
-- VAE + Transformers  
-- MRI preprocessing  
-- Model evaluation workflows
+Web and mobile platform for estimates, billing, and payments.
 
-**Tech:** PyTorch · OpenCV · Python
+- Responsive dashboards  
+- Payment gateway integration  
+- Cross-platform support  
+- Cloud synchronization
 
----
-
-## ✦ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,fastapi,nodejs,postgres,docker,aws,linux,git&theme=dark" />
-
-</div>
+**Tech:** React · Next.js · React Native · Stripe · Razorpay
 
 ---
 
-## ✦ How I Build
+### 🌟 HubbleStar
 
-- Think in systems, not scripts  
-- Design APIs first  
-- Optimize for maintainability  
-- Write for future developers  
-- Ship → Measure → Improve  
+Gamified learning platform that converts screen time into structured study time for students.
 
-Code should scale. Documentation should exist. Bugs should be boring.
+- Practice and competition modes  
+- Adaptive learning system  
+- Leaderboards & analytics  
+- Performance tracking
+
+**Focus Areas:** UI systems · API integration · Platform features
 
 ---
 
-## ✦ GitHub
+## ✦ Tech Stack
+
+### Frontend
+React · Tailwind CSS · Next.js · TypeScript · React Native · Expo
+### Backend
+Node.js · FastAPI · Python
+### Databases
+PostgreSQL · MongoDB · SQLite · Supabase
+### AI / Machine Learning
+Transformers · CNNs · Hybrid Models · PyTorch · TensorFlow
+### Tools & Platforms
+Stripe · Razorpay · Electron · Docker · Git
+
+---
+
+## ✦ Engineering Approach
+
+- API-first design  
+- Modular architecture  
+- Clear separation of concerns  
+- Strong typing  
+- Production-focused releases  
+
+Build once. Maintain easily. Scale confidently.
+
+---
+
+## ✦ GitHub Activity
 
 <div align="center">
 
@@ -137,7 +138,7 @@ Code should scale. Documentation should exist. Bugs should be boring.
 
 <div align="center">
 
-> Build systems. Reduce friction. Repeat.
+> Build useful systems. Keep them simple. Make them last.
 
 </div>
 
