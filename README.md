@@ -104,25 +104,6 @@ Build once. Maintain easily. Scale confidently.
 
 ---
 
-## ✦ GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Mindless-Magnet&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindless-Magnet&layout=compact&theme=tokyonight"
-  width="48%"
-/>
-
-</div>
-
-
----
-
 ## ✦ Links
 
 <div align="center">
