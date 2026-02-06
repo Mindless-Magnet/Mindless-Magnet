@@ -108,11 +108,18 @@ Build once. Maintain easily. Scale confidently.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mindless-Magnet&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Mindless-Magnet&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
+  width="48%"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mindless-Magnet&theme=tokyonight&hide_border=true" width="47%" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mindless-Magnet&layout=compact&theme=tokyonight"
+  width="48%"
+/>
 
 </div>
+
 
 ---
 
